@@ -52,5 +52,6 @@
         "temp/":true,
         "Temp/":true
     },
-    "codic.case": "camelCase"
+    "codic.case": "camelCase",
+    "codic.ACCESS_TOKEN": "取得したアクセストークン"
 }
